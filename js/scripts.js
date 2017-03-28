@@ -32,6 +32,14 @@ $(document).ready(function() {
       //$(".output").append("<li>"+card+"</li>");
     });
 
+
+
+
+
+
+
+
+
     var suits = ["clubs", "diamonds", "hearts", "spades"];
 
 
